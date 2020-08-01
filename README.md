@@ -3,7 +3,7 @@ I'm Ahmad Shibghatullah Shiddieqy.
 <!--- --->
 - 🔭 I’m currently working on my project
 - 🌱 I’m currently learning Python & SQL
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ahmaddot/github-readme-stats)
+- 👯 I’m looking to collaborate
 - 💬 Ask me about anything [here](https://github.com/ahmaddot/ahmaddot/issues)
 
 **Languages and Tools:**  
