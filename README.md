@@ -29,7 +29,7 @@ I'm Ahmad Shibghatullah Shiddieqy.
 </a>
 <a href="https://github.com/ahmaddot/github-readme-stats">
   <!-- Change the `github-readme-stats.ahmaddot1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmaddot&layout=compact&theme=radical" />
+ <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddot&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 </a>
 
 
