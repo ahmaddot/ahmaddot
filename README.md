@@ -1,7 +1,7 @@
 ### Hi there, 👋
-Hi, I'm Ahmad Shibghatullah Shiddieqy.
+I'm Ahmad Shibghatullah Shiddieqy.
 <!--- --->
-- 🔭 I’m currently working on my project <!---[ConvoyChat](https://github.com/ahmaddot/convoychat)--->
+- 🔭 I’m currently working on my project
 - 🌱 I’m currently learning Python & SQL
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/ahmaddot/github-readme-stats)
 - 💬 Ask me about anything [here](https://github.com/ahmaddot/ahmaddot/issues)
